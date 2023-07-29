@@ -14,10 +14,11 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
-
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
+
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
+[![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat-square&logo=Adobe%20Audition&logoColor=white&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
