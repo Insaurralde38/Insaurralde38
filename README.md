@@ -19,6 +19,7 @@
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![Node.js](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/Insaurralde38/)](https://github.com/Insaurralde38/)
