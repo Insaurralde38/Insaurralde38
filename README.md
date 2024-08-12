@@ -24,7 +24,6 @@
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&link=https://expressjs.com/es/)](https://expressjs.com/es/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-31396A?style=for-the-badge&logo=Sequelize&logoColor=68AEE8&link=https://sequelize.org/)](https://sequelize.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23404d59?style=for-the-badge&logo=postgresql&logoColor=%2361DAFB&link=https://www.postgresql.org/)](https://www.postgresql.org/)
-[![Vite](https://img.shields.io/badge/Vite-9E40FF?style=for-the-badge&logo=vite&logoColor=F7CA00&link=https://vitejs.dev/)](https://vitejs.dev/)
 [![Git](https://img.shields.io/badge/-Git-E64D2A?style=for-the-badge&logo=git&logoColor=FFFFFF&link=https://git-scm.com/)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&link=https://github.com/)](https://github.com/)
 [![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&link=https://vercel.com/)](https://vercel.com/)
