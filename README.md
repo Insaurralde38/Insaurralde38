@@ -20,8 +20,8 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&link=https://tailwindcss.com/)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7C01FD?logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 [![Redux](https://img.shields.io/badge/Redux-%237241BE.svg?logo=redux&logoColor=white&link=https://es.redux.js.org/)](https://es.redux.js.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-000000?logo=Node.js&link=https://nodejs.org/es)](https://nodejs.org/es)
 
+[![Node.js](https://img.shields.io/badge/-Node.js-000000?logo=Node.js&link=https://nodejs.org/es)](https://nodejs.org/es)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white&link=https://expressjs.com/es/)](https://expressjs.com/es/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-31396A?logo=Sequelize&logoColor=68AEE8&link=https://sequelize.org/)](https://sequelize.org/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23404d59?logo=postgresql&logoColor=%2361DAFB&link=https://www.postgresql.org/)](https://www.postgresql.org/)
